@@ -53,10 +53,15 @@ The following animation shows the web application's appearance and functionality
 
 
 ## Installation 
+
 1 - Clone the repository from GitHub
+
 2 - Open Intergated Terminal
+
 3 - Install npm create vite@4.4.1 
+
 4 - Run npm install to install dependencies.
+
 5 - Run npm start dev to start local host 
 
 ## Description 
