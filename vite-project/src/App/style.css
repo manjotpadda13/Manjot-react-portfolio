@@ -7,13 +7,14 @@
 #picture{
     width: 200px;
     height: 200px;
-    border-radius: 50%;
     overflow: hidden;
 }
 
 .pageTitle{
     margin: 10px;
     font-size: 40px;
+    color:rgb(64,99,65);
+    padding-left:600px;
 }
 
 .content{
@@ -34,10 +35,15 @@ p{
     margin: 5px;
     font-size: 22px;
     padding:0 20px;
+    background-color:rgb(54,97,72);
+    color:white;
 }
 
 #download{
     margin: 20px;
+     color: white;
+    padding-left:10px;
+    margin-left: 7px;
 }
 
 form{
@@ -83,7 +89,7 @@ button{
     height: 40px;
     width: 80px;
     margin: 20px;
-    background-color: green;
+    background-color:rgb(56, 87, 56); 
     color: white;
     border-radius: 10px;
 }
@@ -98,5 +104,6 @@ button:hover{
 }
 
 #resumeLink{
-    color: darkgreen;
+    color: rgb(255, 255, 255);
+
 }
