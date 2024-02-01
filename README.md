@@ -1,1 +1,0 @@
-# Manjot-react-portfolio
