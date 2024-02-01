@@ -1,5 +1,5 @@
 #content{
-    background-color: rgb(183, 235, 171);
+    background-color: rgb(121, 133, 118);
     height: 100%;
     padding: 20px;
 }
@@ -24,7 +24,7 @@
 }
 
 #image{
-    text-align: left;
+    text-align: center;
     margin: 20px;
 }
 
@@ -44,7 +44,7 @@ p{
     margin: 20px;
      color: white;
     padding-left:10px;
-    margin-left: 7px;
+    margin-left:5px;
 }
 
 form{
@@ -60,15 +60,17 @@ input{
 }
 
 h2, h3{
-    font-family: 'Salsa', 'Noto Snas', 'Times New Roman';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 h3{
     font-size: larger;
 }
 
+
+
 p, ul, label{
-    font-family: 'Noto Snas', 'Salsa', 'Times New Roman';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif';
 }
 
 ul{
@@ -106,7 +108,14 @@ button:hover{
 
 #resumeLink{
 
-    color: darkgreen;
+    color: rgb(255, 255, 255);
 
 
 }
+
+.Bio{
+    margin-bottom: 40px;
+    text-align: center;
+    color: whitesmoke;
+}
+

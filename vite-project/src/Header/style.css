@@ -15,10 +15,11 @@ header {
     width: 100%;
     height: 25vh;
     display: flex;
-    justify-content:space-around;
+    justify-content:space-between;
     align-items: center;
-    font-family: 'Salsa', 'Noto Snas', 'Times New Roman';
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     flex-wrap: wrap;
+    padding-top: 30px;
 }
 
 @media (max-width: 768px) {

@@ -1,9 +1,9 @@
 export default function Resume() {
     return (
       <>
-        <h2 className='pageTitle'>About me</h2>
+        <h2 className='pageTitle'>My Resume</h2>
         <div id="resumeContent">          
-          <p id="download">Download my<a href="https://drive.google.com/file/d/1Zu74XZKCULVlNHfAKwL1VSfm3M0uCuY0/view?usp=sharing" id="resumeLink">resume</a></p>
+          <p id="download">Click here to download my Resume<a href="https://drive.google.com/file/d/1Zu74XZKCULVlNHfAKwL1VSfm3M0uCuY0/view?usp=sharing" id="resumeLink">Resume</a></p>
           <h3>Front-End Proficiencies</h3>
           <ul>
             <li>HTML</li>
