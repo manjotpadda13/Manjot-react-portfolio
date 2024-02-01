@@ -1,0 +1,102 @@
+#content{
+    background-color: rgb(183, 235, 171);
+    height: 100%;
+    padding: 20px;
+}
+
+#picture{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.pageTitle{
+    margin: 10px;
+    font-size: 40px;
+}
+
+.content{
+    text-align: left;
+    align-items: center;
+}
+
+#image{
+    text-align: left;
+    margin: 20px;
+}
+
+#infoPicture img{
+    text-align: left;
+}
+
+p{
+    margin: 5px;
+    font-size: 22px;
+    padding:0 20px;
+}
+
+#download{
+    margin: 20px;
+}
+
+form{
+    margin: 15px;
+}
+
+label{
+    margin: 15;
+}
+
+input{
+    margin: 15px;
+}
+
+h2, h3{
+    font-family: 'Salsa', 'Noto Snas', 'Times New Roman';
+}
+
+h3{
+    font-size: larger;
+}
+
+p, ul, label{
+    font-family: 'Noto Snas', 'Salsa', 'Times New Roman';
+}
+
+ul{
+    margin: 25px;
+    margin-left: 80px;
+}
+
+#resumeContent{
+    margin-left: 30px;
+}
+
+input{
+    height: 30px;
+    border-radius: 5px;
+    width: 400px;
+}
+
+button{
+    height: 40px;
+    width: 80px;
+    margin: 20px;
+    background-color: green;
+    color: white;
+    border-radius: 10px;
+}
+
+button:hover{
+    background-color: rgb(2, 94, 2);
+    font-weight: bolder;
+}
+
+#enterMessage{
+    height: 80px;
+}
+
+#resumeLink{
+    color: darkgreen;
+}

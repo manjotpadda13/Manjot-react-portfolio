@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Titles will go with the font: Salsa */
+/* Normal Text with Noto Sans */
+header {
+    background-image: url("../assets/header-background.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    width: 100%;
+    height: 25vh;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    font-family: 'Salsa', 'Noto Snas', 'Times New Roman';
+    flex-wrap: wrap;
+}
+
+@media (max-width: 768px) {
+    header{
+        flex-direction: column;
+    }
+}
+
+.navContainer{
+    display: flex;
+}
+
+h1{
+    font-size: 50px;
+}

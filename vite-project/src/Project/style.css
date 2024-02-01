@@ -1,0 +1,37 @@
+.project{
+    height: 300px;
+    width: 500px;
+    margin: 20px;
+    border-radius: 10px;
+}
+
+.project:hover{
+    opacity: 0.9;
+}
+
+#projectContent{
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease-in-out;
+    position: relative;
+    top: 20%;
+    text-align: center;
+}
+
+.project:hover #projectContent{
+    opacity: 1;
+    font-weight: bolder;
+}
+
+h3, a{
+    margin: 5px;
+}
+
+h3{
+    font-size: 35px;
+}
+
+a{
+    font-family: 'Noto Snas', 'Salsa', 'Times New Roman';
+    color: rgb(183, 235, 171);
+}
