@@ -65,7 +65,8 @@ When a user acceses my portfolio they can review About Me section with a little 
 
 ## Screenshot 
 
-<img width="1440" alt="Screenshot 2024-02-01 at 1 31 44 AM" src="https://github.com/manjotpadda13/Manjot-react-portfolio/assets/79305241/ab598cfd-6983-4bae-8514-cbf88aa33a64">
+<img width="1440" alt="Screenshot 2024-02-01 at 3 11 49 PM" src="https://github.com/manjotpadda13/Manjot-react-portfolio/assets/79305241/d62a2e26-2890-4a88-8a95-5c6f6fb67a3a">
+
 
 
 
