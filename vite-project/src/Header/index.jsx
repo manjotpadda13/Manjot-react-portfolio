@@ -40,7 +40,7 @@ export default function Header({ setSelectedOption }) {
 
     return(
         <header>
-            <h1>David Rodriguez</h1>
+            <h1>Manjot Padda</h1>
             <div className="navContainer">
                 {Options.map(navOption => <Navigation name={navOption.name} current={navOption.current} key={navOption.id} id={navOption.id} clickHandler={setCurrent}/>)}
             </div>            

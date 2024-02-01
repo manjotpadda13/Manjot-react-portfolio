@@ -1,6 +1,6 @@
 import React from "react";
 import "./style.css";
-import githubImg from "../assets/github.png"
+import githubImg from "../assets/GitHub.png"
 
 export default function Project(props) {
     return(
